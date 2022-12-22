@@ -5,7 +5,7 @@ export const Navbar = ({}) => {
 
     return (
         <header className='.navBarRam'>
-            <h1 className='navBarRam__Logo'>LOGO</h1>
+            <h1 className='navBarRam__Logo'>RulosAfro Studio</h1>
 
             <nav>
                 <a href="#">What</a>
