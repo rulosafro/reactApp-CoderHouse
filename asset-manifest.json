@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactApp-CoderHouse/static/css/main.ac20a800.css",
+    "main.js": "/reactApp-CoderHouse/static/js/main.42f53e02.js",
+    "index.html": "/reactApp-CoderHouse/index.html",
+    "main.ac20a800.css.map": "/reactApp-CoderHouse/static/css/main.ac20a800.css.map",
+    "main.42f53e02.js.map": "/reactApp-CoderHouse/static/js/main.42f53e02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac20a800.css",
+    "static/js/main.42f53e02.js"
+  ]
+}
